@@ -19,6 +19,14 @@ Here are some ideas to get you started:
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/abdullahalsadnun24/count.svg)
 
+## 🌐 Social Links
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
+ [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/)
+ [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=pinterest&logoColor=white)](https://www.pinterest.com//)
+ [![Facebook Page](https://img.shields.io/badge/Facebook%20Page-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com//)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abdullahalsadnun24&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsadnun24&theme=gotham&hide_border=false)<br/>
