@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 ## 🌐 Social Links
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahalsadnun324/)
+ [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/abdulal.sadnun.7)
  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=pinterest&logoColor=white)](https://www.pinterest.com//)
- [![Facebook Page](https://img.shields.io/badge/Facebook%20Page-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com//)
+ [![Facebook Page](https://img.shields.io/badge/hackerrank-%231877F2.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abdulalsadnun531)
 
 
 # 📊 GitHub Stats:
