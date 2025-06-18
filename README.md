@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abdullahalsadnun24&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=abdullahalsadnun24&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsadnun24&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalsadnun24&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abdullahalsadnun24&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abdullahalsadnun24&theme=dracula&no-frame=true&no-bg=false&margin-w=4)-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
  <div align="center">
      
      
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=abdullahalsadnun24&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+<!--![github activity graph](https://activity-graph.herokuapp.com/graph?username=abdullahalsadnun24&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)-->
 </div>
  
 <div align="center">
